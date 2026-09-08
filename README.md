@@ -2,6 +2,10 @@
 
 A compact Vue 3 component library inspired by Element Plus.
 
+## Docs
+
+https://z2584007592-maker.github.io/lunar-ui/
+
 ## Install
 
 ```bash
